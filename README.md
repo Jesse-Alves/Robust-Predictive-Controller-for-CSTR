@@ -74,7 +74,7 @@
 The article discusses the concentration and level control of a continuous stirred-tank reactor, CSTR (acronym in English for continuous stirred-tank reactor). As they are equipment widely used in the chemical industry, they need to operate under specific production conditions, given that the safety of these processes depends on the balance and stability of the chemical reactions that occur inside them. In this context, in addition to the explanation of theoretical aspects related to the robust predictive control techniques used to design the controller for some CSTR variables, the linearization stage, which precedes the control itself, was also described, as well as the specifications required for the project. in question. Furthermore, some expressions used in the project development stages were highlighted and, finally, some discussions were raised about the results obtained.
 
 Keywords: CSTR, linearization, robust control, fluid, level, concentration.
-[Full article]()
+[Full article](https://github.com/Jesse-Alves/Robust-Predictive-Controller-for-Concentration-and-Level-of-a-Continuous-Stirred-Tank-Reactor-CSTR-/blob/main/Paper/Article%20-%20Robust_Predictive_Control.pdf)
 
 <p float="left">
   <img src="images/img1.png" width="500" height="450" />
@@ -100,7 +100,6 @@ Keywords: CSTR, linearization, robust control, fluid, level, concentration.
 
 ### Built With
 * [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
-* [![Simulink](https://img.shields.io/badge/Simulink-4E148C?style=for-the-badge&logo=MathWorks&logoColor=white)](https://www.mathworks.com/products/simulink.html)
 
 <!-- 
 * [![Next][Next.js]][Next-url]
@@ -157,9 +156,9 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-All the codes of the project are available [here](). Where the code [dadosProjCSTR_Preditivo.m]() shows the convertion of the code. And the code [CSTR_PREDITIVO.m]() shows the ploting graphs. 
+All the codes of the project are available [here](https://github.com/Jesse-Alves/Robust-Predictive-Controller-for-Concentration-and-Level-of-a-Continuous-Stirred-Tank-Reactor-CSTR-/tree/main/codes). Where the code [dadosProjCSTR_Preditivo.m](https://github.com/Jesse-Alves/Robust-Predictive-Controller-for-Concentration-and-Level-of-a-Continuous-Stirred-Tank-Reactor-CSTR-/blob/main/codes/dadosProjCSTR_Preditivo.m) shows the convertion of the code. And the code [CSTR_PREDITIVO.m](https://github.com/Jesse-Alves/Robust-Predictive-Controller-for-Concentration-and-Level-of-a-Continuous-Stirred-Tank-Reactor-CSTR-/blob/main/codes/CSTR_PREDITIVO.m) shows the ploting graphs. 
 
-More details about the project can be found in the [article]() attached.
+More details about the project can be found in the [article](https://github.com/Jesse-Alves/Robust-Predictive-Controller-for-Concentration-and-Level-of-a-Continuous-Stirred-Tank-Reactor-CSTR-/blob/main/Paper/Article%20-%20Robust_Predictive_Control.pdf) attached.
 
 
 
